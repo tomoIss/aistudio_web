@@ -1,0 +1,6 @@
+{
+  "name": "workManage 課題管理",
+  "description": "GASバックエンドの通信フィルタリングを回避するサーバープロキシを内蔵した課題管理Webアプリケーション",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
